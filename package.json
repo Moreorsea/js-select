@@ -1,0 +1,23 @@
+{
+  "name": "javascript-select",
+  "version": "1.0.0",
+  "description": "Custom select",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Moreorsea/js-select.git"
+  },
+  "author": "Darya Selyanina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moreorsea/js-select/issues"
+  },
+  "homepage": "https://github.com/Moreorsea/js-select#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.52.3"
+  }
+}
